@@ -34,7 +34,7 @@
   uriPattern: '<TYPO3Subroutes>'
   subRoutes:
     TYPO3Subroutes:
-      package: TYPO3.TYPO3
+      package: TYPO3.Neos
 
 -
   name: 'Flow'

@@ -13,6 +13,6 @@ TYPO3:
     persistence:
       backendOptions:
         host: 127.0.0.1
-        dbname: flow-neos
+        dbname: flow3-neos-test
         user: main
         password: main
