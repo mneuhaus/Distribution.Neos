@@ -1,0 +1,16 @@
+composer.lock
+
+Configuration/PackageStates.php
+Configuration/README
+Configuration/Settings.yaml.example
+flow
+flow.bat
+Readme.txt
+Upgrading.txt
+Configuration/Development/
+Configuration/Production/
+Configuration/Testing/
+Data/
+Web/
+Packages/
+bin/
