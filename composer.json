@@ -1,6 +1,6 @@
 {
-    "name": "typo3/flow-base-distribution",
-    "description" : "TYPO3 Flow Base Distribution",
+    "name": "famelo/project/neos",
+    "description" : "Neos Project Template with Expose",
     "license": "LGPL-3.0+",
     "repositories": [
         {
